@@ -1,6 +1,6 @@
 # Robust Deep Learning against Corrupted Data in Cognitive Autonomous Networks
 
-Code and data accompanying the paper `link here`
+Code and data accompanying the paper [Robust Deep Learning against Corrupted Data in Cognitive Autonomous Networks](https://ieeexplore.ieee.org/document/9789774)
 
 ![](integrated_imputation.png)
 
